@@ -1,2 +1,1 @@
-# hello_world
-первый репозторий
+#  Working with the console
